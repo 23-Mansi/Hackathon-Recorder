@@ -1,0 +1,35 @@
+.card {
+  border: 1px solid rgba(156, 39, 176, 0.5);
+  border-radius: 16px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 20px rgba(155, 39, 176, 0.15);
+  background: rgba(20, 20, 30, 0.5);
+}
+
+.card h2, .card h3 {
+  color: #d9b3ff;
+}
+
+.sub {
+  color: #aaa;
+}
+
+.date {
+  color: #ccc;
+  font-size: 0.9rem;
+}
+
+.links {
+  margin-top: 10px;
+}
+
+.links a {
+  margin-right: 20px;
+  color: #bb86fc;
+  text-decoration: none;
+  font-weight: 500;
+}
+.links a:hover {
+  text-decoration: underline;
+}
